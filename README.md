@@ -3,3 +3,8 @@
 --------------------------
 
 Udemy Course by Angela Yu
+
+
+
+# Other Subscribers Repo
+1. https://github.com/fjpolo/Udemy100DaysOfCodeTheCompletePyhtonProBootcamp
