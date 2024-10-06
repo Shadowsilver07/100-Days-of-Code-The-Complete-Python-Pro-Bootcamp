@@ -28,7 +28,7 @@ Learning Python for DevOps involves a progression from basic concepts to more ad
 - Writing simple scripts to automate tasks
 - Understanding the command line interface
 
-Intermediate Level
+### Intermediate Level
 1. Data Handling
 - Working with libraries like pandas for data manipulation
 - Using json and csv modules for data interchange
@@ -47,7 +47,7 @@ Intermediate Level
 - Using Git for version control
 - Understanding branching and merging
 
-Advanced Level
+### Advanced Level
 1. Automation and Scripting
 - Automating tasks with bash and Python scripts
 - Scheduling tasks with cron jobs
@@ -68,7 +68,7 @@ Advanced Level
 - Learning Terraform or similar tools
 - Writing Python scripts to manage infrastructure
 
-  Additional Skills
+### Additional Skills
 1. Continuous Integration/Continuous Deployment (CI/CD)
 - Setting up CI/CD pipelines using tools like Jenkins or GitHub Actions
 - Integrating Python tests in CI/CD workflows
