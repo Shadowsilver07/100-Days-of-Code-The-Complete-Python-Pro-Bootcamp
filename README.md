@@ -12,7 +12,7 @@ Udemy Course by Angela Yu
 # Recommended Roadmaps
 Learning Python for DevOps involves a progression from basic concepts to more advanced topics. Here's a structured outline to guide your learning:
 
-Basic Level
+### Basic Level
 1. Python Fundamentals
 - Syntax and structure
 - Data types (strings, integers, lists, tuples, dictionaries)
