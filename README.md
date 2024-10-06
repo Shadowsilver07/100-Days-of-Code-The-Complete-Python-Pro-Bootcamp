@@ -75,23 +75,23 @@ Learning Python for DevOps involves a progression from basic concepts to more ad
 - Understanding cloud architecture and deployment strategies
 
 
-5. Infrastructure as Code (IaC)
+**5. Infrastructure as Code (IaC)**
 - Learning Terraform or similar tools
 - Writing Python scripts to manage infrastructure
 
 
 ### Additional Skills
-1. Continuous Integration/Continuous Deployment (CI/CD)
+**1. Continuous Integration/Continuous Deployment (CI/CD)**
 - Setting up CI/CD pipelines using tools like Jenkins or GitHub Actions
 - Integrating Python tests in CI/CD workflows
 
 
-2. Monitoring and Logging
+**2. Monitoring and Logging**
 - Using Python for log analysis
 - Working with monitoring tools and libraries (like Prometheus)
 
 
-3. Security Best Practices
+**3. Security Best Practices**
 - Understanding secure coding practices
 - Familiarity with tools for security scanning (e.g., Bandit)
 
