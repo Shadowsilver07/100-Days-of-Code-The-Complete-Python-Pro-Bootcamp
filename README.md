@@ -21,56 +21,56 @@ Learning Python for DevOps involves a progression from basic concepts to more ad
 - Basic I/O (reading and writing files)
 
 
-2. Environment Setup
+**2. Environment Setup**
 - Installing Python and using package managers (pip)
 - Setting up virtual environments (venv, virtualenv)
 
 
-3. Basic Scripting
+**3. Basic Scripting**
 - Writing simple scripts to automate tasks
 - Understanding the command line interface
 
 
 ### Intermediate Level
-1. Data Handling
+**1. Data Handling**
 - Working with libraries like pandas for data manipulation
 - Using json and csv modules for data interchange
 
 
-2. APIs and Networking
+**2. APIs and Networking**
 - Making HTTP requests with requests
 - Understanding RESTful APIs
 - Basic socket programming
 
 
-3. Error Handling and Testing
+**3. Error Handling and Testing**
 - Exception handling
 - Writing tests with unittest or pytest
 - Debugging techniques
 
 
-4. Version Control
+**4. Version Control**
 - Using Git for version control
 - Understanding branching and merging
 
 
 ### Advanced Level
-1. Automation and Scripting
+**1. Automation and Scripting**
 - Automating tasks with bash and Python scripts
 - Scheduling tasks with cron jobs
 
 
-2. Configuration Management Tools
+**2. Configuration Management Tools**
 - Learning tools like Ansible, Puppet, or Chef using Python
 - Writing playbooks or manifests
 
 
-3. Containerization and Orchestration
+**3. Containerization and Orchestration**
 - Working with Docker (creating, managing, and orchestrating containers)
 - Understanding Kubernetes basics and how to manage Python applications within containers
 
 
-4. Cloud Services
+**4. Cloud Services**
 - Using SDKs (like boto3 for AWS) to interact with cloud services
 - Understanding cloud architecture and deployment strategies
 
