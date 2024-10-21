@@ -22,9 +22,6 @@ print(f"The random number is {random_number}")
 
 
 
-
-
-
 # My Answer 2
 ''' 
 import random
