@@ -59,6 +59,18 @@ Create a coin flip program using what you have learnt about randomisation in Pyt
 # Hint 
 You'll need to think about what you have learnt about conditional statements in Python.
 
+
+
+Exercise 1:
+
+import random
+import my_module
+
+# random_integer = random.randint(1,10)
+# print(random_integer)
+
+print(my_module.my_favourite_number)
+
 '''
 
 # Module - Split codes to different functionality
@@ -66,4 +78,4 @@ You'll need to think about what you have learnt about conditional statements in 
 import random
 
 random_integer = random.randint(1,10)
-
+print(random_integer)

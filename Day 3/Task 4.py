@@ -1,6 +1,5 @@
 # Multiple if statements
 
-
 '''
 You can write as many if statements as you need to check for different conditions that are unrelated to each other. Compare the code blocks below:
 
